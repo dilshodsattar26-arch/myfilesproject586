@@ -1,0 +1,8 @@
+{
+    "name": "dataconfig-service",
+    "version": "1.0.586",
+    "private": false,
+    "environment": "production",
+    "build_id": 676,
+    "allow_public_access": true
+}
